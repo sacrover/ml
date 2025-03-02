@@ -61,7 +61,7 @@ This project focuses on predicting the critical temperature of a superconductors
 
 ### Key Components
 
-- **Dataset:** Superconductor Dataset containing 21,263 instances and 81 features.
+- **Dataset:** Superconductor Dataset.
 
 - **Analysis Methods:**
     - **Linear Regression:** Direct solution using matrix inversion.
